@@ -1,16 +1,15 @@
 # Research_grant_Python
 An investigation of the topics that are awarded MRFF and NHMRC grants in Australia
 
-Here are the main steps. We'll go over each of these in more detail on the following pages.
-
-Gather two datasets - successfully extract data using two different data gathering methods and combine the data.
-Assess the data according to quality and tidiness metrics, identifying missing data.
+In this project two datasets were collected from public API's from two major funbing organisations in Australia, NHMRC and MRFF.
+Two different data gathering methods were used. One being a downloaded dataset and the other was programmatically coonnecting to an API.
+The data was assessed according to quality and tidiness metrics, and missing data identified.
 Clean the data to solve the issues found in the assessing step.
 Update the data store with the cleaned data.
 Produce visualizations on the cleaned data, and answer a brief research question on the dataset.
-In this project, you'll have the opportunity to apply the skills you acquired in the course by gathering and wrangling multiple real-world datasets of your choice.
 
-In the end, you will have completed a professional data-wrangling process and be able to generate visualizations such as the following on cleaned data.
+This project demonstrates a professional data-wrangling process and generation of visualisations on the cleaned data.
+
 # Project Title
 
 # Quickstart/Demo
